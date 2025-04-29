@@ -1,0 +1,2 @@
+defmodule QuickJS do
+end
